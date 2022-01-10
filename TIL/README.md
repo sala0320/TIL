@@ -2,8 +2,9 @@
 ## January
 <details markdown="1">
 <summary>22.01.10</summary>
+</br>
 
-### 알고리즘
+__알고리즘__
 * [2667 단지번호붙이기](https://www.acmicpc.net/problem/2667) `DFS`
   * DFS 돌면서 1이면 count증가  
   * [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/BFS%2BDFS/BackJoon/2667.py)  
@@ -20,7 +21,16 @@
   * V 정렬, Uninon-find로 사이클 탐지, 사이클 없으면(find 결과 다르면) union하고 cost 더하기
   * [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/Graph/BackJoon/1197.py)
 
-### 취업 준비
+__취업 준비__  
 * 자소서 특강 듣기
+
+</details>
+
+<details markdown="1">
+<summary>22.01.11</summary>
+</br>
+
+__알고리즘__
+
 
 </details>
