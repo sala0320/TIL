@@ -1,8 +1,7 @@
-# 🐢TIL
+# Daily Report☺️
 
-## Contents
-### TIL  
-  * [January](./TIL/January.md)
+### Today I Learned
+  * [TIL](./TIL/README.md)
   
 ### Algorithm
   * [Graph](./Algorithm/Graph/README.md)
