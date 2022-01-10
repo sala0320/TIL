@@ -5,10 +5,12 @@
 <summary>22.01.10</summary>
 </br>
 
-__강의 듣기__
-- [ ] SDS 알고리즘 특강 듣기
+__강의__
+- [x] SDS 알고리즘 특강 듣기
 
 __알고리즘__
+- [x] 알고리즘 문제 5개 풀기
+
 * [2667 단지번호붙이기](https://www.acmicpc.net/problem/2667)  /  [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/BFS%2BDFS/BackJoon/2667.py)  
   * `DFS`
   * DFS 돌면서 1이면 count증가  
@@ -29,8 +31,8 @@ __알고리즘__
 
 
 __취업 준비__  
-* 자소서 특강 듣기
-  
+- [x] 자소서 특강 듣기
+    
 </details>
 
 <details markdown="1">
@@ -38,13 +40,14 @@ __취업 준비__
 </br>
 
 __알고리즘__
+- [ ] 알고리즘 문제 5개 풀기
 * 다익스트라 3문제
 * BFS 2문제 
   
 __취업 준비__ 
-* 마스터 자소서 작성 
+- [ ] 마스터 자소서 작성 
 
 __인공지능__
-* 데이콘 코드 분석
+- [ ] 데이콘 코드 분석
   
 </details>
