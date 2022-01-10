@@ -1,8 +1,8 @@
 # 🐢TIL
 
 ## Contents
-### TIL  
-  * [January](./TIL/January.md)
+### Today I Learn 
+  * [TIL](./TIL/README.md)
   
 ### Algorithm
   * [Graph](./Algorithm/Graph/README.md)
