@@ -1,5 +1,5 @@
 # 🐢TIL
 
 ## Contents
-[TIL](./TIL)  
-[Algorithm](./Algorithm)
+* [TIL](./TIL)  
+* [Algorithm](./Algorithm)
