@@ -1,4 +1,5 @@
-## TIL
-[TIL] ()
-## Algorithm
-[Algorithm] ()
+###  TIL
+[TIL](./TIL)
+
+### Algorithm
+[Algorithm](./Algorithm)
