@@ -1,8 +1,7 @@
-# 🐢TIL
+# 👩‍💻Daily Report
 
-## Contents
-### Today I Learn 
+## Today I Learned
   * [TIL](./TIL/README.md)
   
-### Algorithm
+## Algorithm
   * [Graph](./Algorithm/Graph/README.md)
