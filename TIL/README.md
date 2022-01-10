@@ -5,6 +5,9 @@
 <summary>22.01.10</summary>
 </br>
 
+__강의 듣기__
+- [ ] SDS 알고리즘 특강 듣기
+
 __알고리즘__
 * [2667 단지번호붙이기](https://www.acmicpc.net/problem/2667)  /  [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/BFS%2BDFS/BackJoon/2667.py)  
   * `DFS`
