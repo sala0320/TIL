@@ -1,5 +1,4 @@
-# TIL
-## January
+# January
 <details markdown="1">
 <summary>22.01.10</summary>
 </br>
