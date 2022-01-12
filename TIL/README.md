@@ -43,7 +43,7 @@ __취업 준비__
 </br>
 
 __알고리즘__
-- [X] 알고리즘 문제 5개 풀기
+- [X] 알고리즘 문제 5개 풀기 -> 4개
 
 * [1753 최단경로](https://www.acmicpc.net/problem/1753) / [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/Graph/BackJoon/1753.py)
   * `Dijkstra`
@@ -86,9 +86,10 @@ __알고리즘__
   * `Union-Find`
   * 연결된 여행지 Union, 가고자 하는 여행지 find했을 때 같으면 YES
 * [1939 중량제한](https://www.acmicpc.net/problem/1939) / [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/Graph/BackJoon/1939.py)
+  * 
 
 __인공지능__
-- [x] 데이콘 train/inference
+- [x] 데이콘 리더보드 제출
 
 __취업 준비__ 
 - [x] LG 자소서 작성 
@@ -96,18 +97,19 @@ __취업 준비__
   
 </details>
 
-
 <details markdown="1">
 <summary>22.01.13</summary>
 </br>
 
 __알고리즘__
-- [ ] 업스테이지 코딩테스트
+- [ ] 코딩테스트
+- [ ] 알고리즘 문제 1개 풀기
 
 __인공지능__
-- [ ] 데이콘 train/inference
+- [ ] 데이콘 리더보드 제출
 
 __취업 준비__ 
 - [ ] 면접 스터디 준비 
 - [ ] LG 자소서 작성 
+
 </details>
