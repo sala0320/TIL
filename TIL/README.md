@@ -63,19 +63,14 @@ __알고리즘__
   * `BFS`
   * 큐 사용해서 현재 위치에서 업/다운, 이미 방문했던 곳 큐에 넣지 말기
   
-* [10238 스타트택시](https://www.acmicpc.net/problem/19238)
-  * `BFS`
-  
-
 * [1520 내리막길](https://www.acmicpc.net/problem/1520)
   * `DFS` `DP`
+  * DFS로만 하면 시과초과가 나서 DP를 적용해야 함  
+  <img src="https://user-images.githubusercontent.com/49435163/149088599-b266b4b0-442c-43be-9f47-82709a2273ed.png" width="500" height="250"/>
   
 __취업 준비__ 
 - [ ] 마스터 자소서 작성 
 
-__인공지능__
-- [ ] 데이콘 코드 분석
-  
 </details>
 
 <details markdown="1">
@@ -83,10 +78,36 @@ __인공지능__
 </br>
 
 __알고리즘__
-- [ ] 알고리즘 문제 3개 풀기
+- [x] 알고리즘 문제 3개 풀기
+* [10238 스타트택시](https://www.acmicpc.net/problem/19238)
+  * `BFS`
+
+* [1976 여행가자](https://www.acmicpc.net/problem/1976) / [풀이]()
+  * `Union-Find`
+  * 연결된 여행지 Union, 가고자 하는 여행지 find했을 때 같으면 YES
+* [1939 중량제한](https://www.acmicpc.net/problem/1939) / [풀이]()
 
 __인공지능__
-- [ ] 데이콘 코드 분석
+- [x] 데이콘 train/inference
+
+__취업 준비__ 
+- [x] LG 자소서 작성 
+
   
 </details>
 
+
+<details markdown="1">
+<summary>22.01.13</summary>
+</br>
+
+__알고리즘__
+- [ ] 업스테이지 코딩테스트
+
+__인공지능__
+- [ ] 데이콘 train/inference
+
+__취업 준비__ 
+- [ ] 면접 스터디 준비 
+- [ ] LG 자소서 작성 
+</details>
