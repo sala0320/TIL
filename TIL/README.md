@@ -43,7 +43,7 @@ __취업 준비__
 </br>
 
 __알고리즘__
-- [X] 알고리즘 문제 5개 풀기 -> 4개
+- [X] 알고리즘 문제 5개 풀기 -> 2개 미해결
 
 * [1753 최단경로](https://www.acmicpc.net/problem/1753) / [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/Graph/BackJoon/1753.py)
   * `Dijkstra`
@@ -78,14 +78,15 @@ __취업 준비__
 </br>
 
 __알고리즘__
-- [x] 알고리즘 문제 3개 풀기
+- [x] 알고리즘 문제 3개 풀기 -> 2개 미해결
 * [19238 스타트택시](https://www.acmicpc.net/problem/19238) / [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/BFS%2BDFS/BackJoon/19238.py)
   * `BFS`
 
 * [1976 여행가자](https://www.acmicpc.net/problem/1976) / [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/Graph/BackJoon/1976.py)
   * `Union-Find`
   * 연결된 여행지 Union, 가고자 하는 여행지 find했을 때 같으면 YES
-* [1939 중량제한](https://www.acmicpc.net/problem/1939) / [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/Graph/BackJoon/1939.py)
+  
+* [1939 중량제한](https://www.acmicpc.net/problem/1939) / [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/Graph/BackJoon/1939.py)  
   * 
 
 __인공지능__
@@ -103,13 +104,13 @@ __취업 준비__
 
 __알고리즘__
 - [ ] 코딩테스트
-- [ ] 알고리즘 문제 1개 풀기
+- [ ] 알고리즘 문제 3개 풀기 
 
 __인공지능__
+- [ ] 시계열 모델 공부
 - [ ] 데이콘 리더보드 제출
 
 __취업 준비__ 
-- [ ] 면접 스터디 준비 
 - [ ] LG 자소서 작성 
 
 </details>
