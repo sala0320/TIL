@@ -87,7 +87,7 @@ __알고리즘__
   * 연결된 여행지 Union, 가고자 하는 여행지 find했을 때 같으면 YES
   
 * [1939 중량제한](https://www.acmicpc.net/problem/1939) / [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/Graph/BackJoon/1939.py)  
-  * 
+  
 
 __인공지능__
 - [x] 데이콘 리더보드 제출
@@ -103,8 +103,33 @@ __취업 준비__
 </br>
 
 __알고리즘__
-- [ ] 코딩테스트
-- [ ] 알고리즘 문제 3개 풀기 
+- [x] 코딩테스트
+- [x] 알고리즘 문제 3개 풀기 
+* [1932 정수삼각형](https://www.acmicpc.net/problem/1932) / [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/DP/BackJoon/1932.py)
+  * `DP` 
+  * 가장 왼쪽일 때, 오른쪽일때, 중앙일때 나눠서 이전 층까지의 합에 더해서 계산 
+* [11659 구간합구하기4](https://www.acmicpc.net/problem/11659) / [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/DP/BackJoon/11659.py)
+  * `DP`
+  * sys로 input속도 올리기
+* [11660 구간합구하기5](https://www.acmicpc.net/problem/11660) / [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/DP/BackJoon/11660.py)
+  * `DP`
+
+
+__인공지능__
+- [ ] 시계열 모델 공부
+- [x] 데이콘 리더보드 제출
+
+__취업 준비__ 
+- [ ] LG 자소서 작성 
+
+</details>
+
+<details markdown="1">
+<summary>22.01.13</summary>
+</br>
+
+__알고리즘__
+- [ ] 알고리즘 문제 5개 풀기 
 
 __인공지능__
 - [ ] 시계열 모델 공부
@@ -112,5 +137,23 @@ __인공지능__
 
 __취업 준비__ 
 - [ ] LG 자소서 작성 
+- [ ] 면접스터디
+
+</details>
+
+<details markdown="1">
+<summary>22.01.14</summary>
+</br>
+
+__알고리즘__
+- [ ] 코딩테스트
+- [ ] 알고리즘 문제 5개 풀기 
+
+__인공지능__
+- [ ] 시계열 모델 공부
+- [ ] 데이콘 리더보드 제출
+
+__취업 준비__ 
+- [ ] 한화 자소서 작성 
 
 </details>
