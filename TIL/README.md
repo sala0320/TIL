@@ -5,6 +5,9 @@
   3. CS 면접 준비
   4. 데이콘
 
+
+### 3rd week
+
 <details markdown="1">
 <summary>22.01.10</summary>
 </br>
