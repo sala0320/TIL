@@ -5,4 +5,4 @@
   
 ### Algorithm
   * [Graph](./Algorithm/Graph/README.md) 
-  * [Dynamic Programming](./Algorithm/DynamicProgramming/README.md)
+  * [Dynamic Programming](./Algorithm/Dynamic_Programming/README.md)
