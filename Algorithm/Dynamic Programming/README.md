@@ -88,16 +88,23 @@ for _ in range(M):
 
 ```python
 N = int(input())
-num = list(map(int, input().split()))
-dp = [1] * (N+1)
+dp = [0] * (N + 1)
+if N >= 2:
+    dp[2] = 1
 
-for i in range(N):
-    for j in range(i):
-        #현재 수 이전에 현재보다 작은 수 있으면 개수 더하기
-				if num[j] < num[i]:
-						#이미 현재가 가장 길게 증가하는 개수이면 냅두기
-            dp[i] = max(dp[i], dp[j]+1)
-print(max(dp))
+# Bottom-Up
+for i in range(3, N + 1):
+dp[i] = min(dp[i // 2] + (i % 2), dp[i // 3] + (i % 3)) + 1
+
+# Top-down
+def td(n):
+    if n <= 2:
+        return dp[n]
+    dp[n] = min(td(n // 3) + (n % 3), td(n // 2) + (n % 2)) + 1
+    return dp[n]
+td(N)
+
+print(dp[N])
 ```
 ## 배낭 문제
 
