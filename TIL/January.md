@@ -9,7 +9,7 @@
 ### 3rd week
 
 <details markdown="1">
-<summary>22.01.10</summary>
+<summary>22.01.10 🙂</summary>
 </br>
 
 __강의__
@@ -42,7 +42,7 @@ __취업 준비__
 </details>
 
 <details markdown="1">
-<summary>22.01.11</summary>
+<summary>22.01.11 🙂</summary>
 </br>
 
 __알고리즘__
@@ -77,7 +77,7 @@ __취업 준비__
 </details>
 
 <details markdown="1">
-<summary>22.01.12</summary>
+<summary>22.01.12 🙁</summary>
 </br>
 
 __알고리즘__
@@ -94,7 +94,7 @@ __인공지능__
 </details>
 
 <details markdown="1">
-<summary>22.01.13</summary>
+<summary>22.01.13 🙂</summary>
 </br>
 
 __알고리즘__
@@ -119,7 +119,7 @@ __취업 준비__
 </details>
 
 <details markdown="1">
-<summary>22.01.14</summary>
+<summary>22.01.14 🙁</summary>
 </br>
 
 __알고리즘__
@@ -132,7 +132,7 @@ __취업 준비__
 </details>
 
 <details markdown="1">
-<summary>22.01.15</summary>
+<summary>22.01.15 🙁</summary>
 </br>
 
 __취업 준비__ 
@@ -141,24 +141,20 @@ __취업 준비__
 </details>
 
 <details markdown="1">
-<summary>22.01.16</summary>
+<summary>22.01.16 🙂</summary>
 </br>
 
 __알고리즘__
-- [ ] 이번주 푼 문제들 복습
+- [x] 이번주 푼 문제들 복습
   * DP 정리
   * Graph 정리
-- [ ] 이번주 못 푼 나머지 문제들 풀기  
-* [1915 가장 큰 정사각형](https://www.acmicpc.net/problem/1915) / [풀이]()
+- [x] 이번주 못 푼 나머지 문제들 풀기  
+* [1915 가장 큰 정사각형](https://www.acmicpc.net/problem/1915) / [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/DP/BackJoon/1915.py)
   * `DP` 
   * dp : 현재까지 가장 큰 정사각형의 한 변의 길이
   * dp[i][j] = min(dp[i-1][j-1], dp[i-1][j], dp[i][j-1]) + 1
-* [12865 평범한 배낭](https://www.acmicpc.net/problem/12865) / [풀이]()
+* [12865 평범한 배낭](https://www.acmicpc.net/problem/12865) / [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/DP/BackJoon/12865.py)
   * `DP`
-* [19238 스타트택시](https://www.acmicpc.net/problem/19238) / [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/BFS%2BDFS/BackJoon/19238.py)
-  * `BFS`
-
-* [1939 중량제한](https://www.acmicpc.net/problem/1939) / [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/Graph/BackJoon/1939.py)
   
 __인공지능__
 - [ ] CoAtNet 공부
@@ -166,9 +162,21 @@ __인공지능__
 
 </details>
 
-__한 주 회고__  
-  - 🥕 : 알고리즘 많이 풀고, DP 공부 많이 했다!  
-  - 🗡 : 여전히 멍충하다 알고리즘 문제 더 많이 풀고 아이디어의 폭을 넓히자!지금 가장 시급한건 첫째도 알고리즘 둘째도 알고리즘!!그리고 자소서 좀 미리 쓰자...🙄
+<details markdown="1">
+<summary>Retrospect</summary>
+</br> 
+
+__🥕당근🥕__  
+- 알고리즘 공부 많이 하고 문제도 많이 풀었다.
+- 서류도 많이 내보고, 합격해서 코딩테스트도 많이 봤다 다 거름이 될 것이다.  
+
+__🗡채찍🗡__
+- 코딩테스트는 여전히 많이 어렵고, 아이디어가 잘 떠오르지 않는다. 
+  알고리즘 문제 더더더 많이 풀고 아이디어의 폭을 넓히자!무조건 1순위는 알고리즘!!
+- 빨리 마스터 자소서 완성하고 자소서 클리닉 받자!
+- 시계열 모델, 분류 모델 SOTA 공부하고 1일 1회 데이콘 제출 하자
+  
+</details>
 
 ### 4th week
 
@@ -178,6 +186,10 @@ __한 주 회고__
 
 __알고리즘__
 - [ ] 알고리즘 3문제 풀기
+* [19238 스타트택시](https://www.acmicpc.net/problem/19238) / [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/BFS%2BDFS/BackJoon/19238.py)
+  * `BFS`
+
+* [1939 중량제한](https://www.acmicpc.net/problem/1939) / [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/Graph/BackJoon/1939.py)
   
 __인공지능__
 - [ ] 데이콘 리더보드 제출
