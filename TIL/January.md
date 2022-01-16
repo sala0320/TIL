@@ -9,7 +9,7 @@
 ### 3rd week
 
 <details markdown="1">
-<summary>22.01.10 🙂</summary>
+<summary>22.01.10 😀</summary>
 </br>
 
 __강의__
@@ -42,7 +42,7 @@ __취업 준비__
 </details>
 
 <details markdown="1">
-<summary>22.01.11 🙂</summary>
+<summary>22.01.11 😀</summary>
 </br>
 
 __알고리즘__
@@ -77,7 +77,7 @@ __취업 준비__
 </details>
 
 <details markdown="1">
-<summary>22.01.12 🙁</summary>
+<summary>22.01.12 😡</summary>
 </br>
 
 __알고리즘__
@@ -94,7 +94,7 @@ __인공지능__
 </details>
 
 <details markdown="1">
-<summary>22.01.13 🙂</summary>
+<summary>22.01.13 😀</summary>
 </br>
 
 __알고리즘__
@@ -119,7 +119,7 @@ __취업 준비__
 </details>
 
 <details markdown="1">
-<summary>22.01.14 🙁</summary>
+<summary>22.01.14 😡</summary>
 </br>
 
 __알고리즘__
@@ -132,8 +132,11 @@ __취업 준비__
 </details>
 
 <details markdown="1">
-<summary>22.01.15 🙁</summary>
+<summary>22.01.15 😡</summary>
 </br>
+
+__알고리즘__
+- [x] 코딩테스트 본거 풀이 영상 보기
 
 __취업 준비__ 
 - [x] 코딩테스트
@@ -141,7 +144,7 @@ __취업 준비__
 </details>
 
 <details markdown="1">
-<summary>22.01.16 🙂</summary>
+<summary>22.01.16 😀</summary>
 </br>
 
 __알고리즘__
