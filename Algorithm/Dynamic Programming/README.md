@@ -37,6 +37,8 @@ print(dp[n])
 ```
 
 ## 1로 만들기
+![image](https://user-images.githubusercontent.com/49435163/149655979-f16f3e4d-e9fc-4b73-a78f-a242c268be5b.png)
+
 $$
 a_{i} = min(a_{i-1} , a_{i/2}, a_{i/3}) + 1
 $$
@@ -82,7 +84,7 @@ for _ in range(M):
     print(dp[f]-dp[s-1])
 ```
 
-## 가장 긴 증가/간소하는 부분수열
+## 가장 긴 증가/감소하는 부분수열
 
 ```python
 N = int(input())
@@ -97,7 +99,7 @@ for i in range(N):
             dp[i] = max(dp[i], dp[j]+1)
 print(max(dp))
 ```
+## 배낭 문제
+
 
 ## LCS
-
-## 배낭 문제

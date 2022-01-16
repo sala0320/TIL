@@ -1,7 +1,7 @@
 # Daily Report☺️
 
 ### Today I Learned
-  * [TIL](./TIL/README.md)
+  * [January](./TIL/January.md)
   
 ### Algorithm
   * [Graph](./Algorithm/Graph/README.md) 
