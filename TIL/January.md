@@ -125,7 +125,7 @@ __알고리즘__
 - [ ] 알고리즘 문제 3개 풀기  
 
 __취업 준비__ 
-- [x] 자소서 마감
+- [x] 자소서 마감 제출
 - [x] 면접스터디
 
 </details>
@@ -155,8 +155,6 @@ __알고리즘__
   * `DP` 
   * dp : 현재까지 가장 큰 정사각형의 한 변의 길이
   * dp[i][j] = min(dp[i-1][j-1], dp[i-1][j], dp[i][j-1]) + 1
-* [12865 평범한 배낭](https://www.acmicpc.net/problem/12865) / [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/DP/BackJoon/12865.py)
-  * `DP`
   
 __인공지능__
 - [ ] CoAtNet 공부
@@ -188,16 +186,35 @@ __🗡채찍🗡__
 
 __알고리즘__
 - [ ] 알고리즘 3문제 풀기
-* [19238 스타트택시](https://www.acmicpc.net/problem/19238) / [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/BFS%2BDFS/BackJoon/19238.py)
-  * `BFS`
-
-* [1939 중량제한](https://www.acmicpc.net/problem/1939) / [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/Graph/BackJoon/1939.py)
+* [12865 평범한 배낭](https://www.acmicpc.net/problem/12865) / [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/DP/BackJoon/12865.py)
+  * `DP`
   
 __인공지능__
+- [x] 데이콘 실험 돌리기
+  * 파이썬 파일로 바꾸기, 시드 고정, cuda로 학습
+  * NFnet, ViT, Coatnet 공부 및 실험
+  
+__취업 준비__ 
+- [x] 자소서 마감 제출
+</details>
+
+<details markdown="1">
+<summary>22.01.18</summary>
+</br>
+
+__알고리즘__
+- [ ] 알고리즘 3문제 풀기
+  * [19238 스타트택시](https://www.acmicpc.net/problem/19238) / [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/BFS%2BDFS/BackJoon/19238.py)
+
+  * [1939 중량제한](https://www.acmicpc.net/problem/1939) / [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/Graph/BackJoon/1939.py)
+
+  * [14600 샤워실 바닥 깔기](https://www.acmicpc.net/problem/14600) / [풀이]()
+
+__인공지능__
 - [ ] 데이콘 리더보드 제출
+  * NFnet, ViT, Coatnet 공부 및 실험
 
 __취업 준비__ 
-- [ ] 자소서 마감
-- [ ] 면접 스터디 정리
-
+- [ ] 포트폴리오 정리
+- [ ] 자소서 작성  
 </details>
