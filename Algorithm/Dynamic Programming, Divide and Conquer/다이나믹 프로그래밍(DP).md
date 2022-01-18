@@ -1,4 +1,4 @@
-# DP(Dynamic Programming)
+# 다이나믹 프로그래밍(DP)
 ## 문제 유형
 
 1. 최적 부분 구조 : 큰 문제를 작은 문제로 나눌 수 있음
@@ -37,11 +37,8 @@ print(dp[n])
 ```
 
 ## 1로 만들기
-![image](https://user-images.githubusercontent.com/49435163/149655979-f16f3e4d-e9fc-4b73-a78f-a242c268be5b.png)
 
-$$
-a_{i} = min(a_{i-1} , a_{i/2}, a_{i/3}) + 1
-$$
+![image](https://user-images.githubusercontent.com/49435163/149655979-f16f3e4d-e9fc-4b73-a78f-a242c268be5b.png)
 
 
 ```python
@@ -107,6 +104,6 @@ td(N)
 print(dp[N])
 ```
 ## 배낭 문제
-
+![image](https://user-images.githubusercontent.com/49435163/149879026-6888ff3f-c6a8-4675-9542-02eae5d93ddf.png)
 
 ## LCS

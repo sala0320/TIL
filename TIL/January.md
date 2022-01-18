@@ -9,7 +9,7 @@
 ### 3rd week
 
 <details markdown="1">
-<summary>22.01.10 😀</summary>
+<summary>22.01.10(월) 😀</summary>
 </br>
 
 __강의__
@@ -42,7 +42,7 @@ __취업 준비__
 </details>
 
 <details markdown="1">
-<summary>22.01.11 😀</summary>
+<summary>22.01.11(화) 😀</summary>
 </br>
 
 __알고리즘__
@@ -72,7 +72,7 @@ __취업 준비__
 </details>
 
 <details markdown="1">
-<summary>22.01.12 😡</summary>
+<summary>22.01.12(수) 😡</summary>
 </br>
 
 __알고리즘__
@@ -93,7 +93,7 @@ __인공지능__
 </details>
 
 <details markdown="1">
-<summary>22.01.13 😀</summary>
+<summary>22.01.13(목) 😀</summary>
 </br>
 
 __알고리즘__
@@ -118,7 +118,7 @@ __취업 준비__
 </details>
 
 <details markdown="1">
-<summary>22.01.14 😡</summary>
+<summary>22.01.14(금) 😡</summary>
 </br>
 
 __알고리즘__
@@ -131,7 +131,7 @@ __취업 준비__
 </details>
 
 <details markdown="1">
-<summary>22.01.15 😡</summary>
+<summary>22.01.15(토) 😡</summary>
 </br>
 
 __알고리즘__
@@ -143,7 +143,7 @@ __취업 준비__
 </details>
 
 <details markdown="1">
-<summary>22.01.16 😀</summary>
+<summary>22.01.16(일) 😀</summary>
 </br>
 
 __알고리즘__
@@ -181,13 +181,16 @@ __🗡채찍🗡__
 ### 4th week
 
 <details markdown="1">
-<summary>22.01.17</summary>
+<summary>22.01.17 (월)</summary>
 </br>
 
 __알고리즘__
 - [ ] 알고리즘 3문제 풀기
 * [12865 평범한 배낭](https://www.acmicpc.net/problem/12865) / [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/DP/BackJoon/12865.py)
   * `DP`
+  * 물건이 하나씩 추가되고 넣을 수 있는 최대 무게를 하나씩 늘려가면서, 물건 넣을지 말지에 따라서 최대 가치 
+  ![image](https://user-images.githubusercontent.com/49435163/149879026-6888ff3f-c6a8-4675-9542-02eae5d93ddf.png)
+  * 다른 사람들 풀이 보니까 DP를 dict로 많이 푸는 것 같다!!dict로 푸는게 훨 빠르다!!😲  
   
 __인공지능__
 - [x] 데이콘 실험 돌리기
@@ -199,16 +202,20 @@ __취업 준비__
 </details>
 
 <details markdown="1">
-<summary>22.01.18</summary>
+<summary>22.01.18 (화)</summary>
 </br>
 
 __알고리즘__
 - [ ] 알고리즘 3문제 풀기
   * [19238 스타트택시](https://www.acmicpc.net/problem/19238) / [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/BFS%2BDFS/BackJoon/19238.py)
 
-  * [1939 중량제한](https://www.acmicpc.net/problem/1939) / [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/Graph/BackJoon/1939.py)
-
   * [14600 샤워실 바닥 깔기](https://www.acmicpc.net/problem/14600) / [풀이]()
+    * `분할정복`
+    * 트로미노 타일링이라는 유명한 분할 정복 문제
+    ![image](https://user-images.githubusercontent.com/49435163/149934848-898715b4-909e-44ba-b813-ffe761bd67eb.png)
+  
+  * [1713 후보추천하기](https://www.acmicpc.net/problem/1713)/ [풀이]()
+    * `구현`
 
 __인공지능__
 - [ ] 데이콘 리더보드 제출
@@ -216,5 +223,73 @@ __인공지능__
 
 __취업 준비__ 
 - [ ] 포트폴리오 정리
-- [ ] 자소서 작성  
+  
+</details>
+
+
+<details markdown="1">
+<summary>22.01.19 (수)</summary>
+</br>
+
+__알고리즘__
+- [ ] 알고리즘 1문제 풀기
+  * [1939 중량제한](https://www.acmicpc.net/problem/1939) / [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/Graph/BackJoon/1939.py)
+
+
+__취업 준비__ 
+- [ ] 포트폴리오 정리
+- [ ] 자소서 제출 마감
+- [ ] 코딩테스트
+
+</details>
+
+<details markdown="1">
+<summary>22.01.20 (목)</summary>
+</br>
+
+__취업 준비__ 
+- [ ] 면접 스터디 준비
+- [ ] 자소서 제출 마감
+</details>
+
+
+<details markdown="1">
+<summary>22.01.21 (금)</summary>
+</br>
+
+__알고리즘__
+- [ ] 알고리즘 3문제 풀기
+
+__인공지능__
+- [ ] 데이콘 리더보드 제출
+
+__취업 준비__ 
+- [ ] 면접 스터디
+
+</details>
+
+<details markdown="1">
+<summary>22.01.21 (토)</summary>
+</br>
+
+__알고리즘__
+
+__인공지능__
+
+
+__취업 준비__ 
+
+</details>
+
+<details markdown="1">
+<summary>22.01.21 (일)</summary>
+</br>
+
+__알고리즘__
+
+__인공지능__
+
+__취업 준비__ 
+
+
 </details>
