@@ -207,15 +207,12 @@ __취업 준비__
 
 __알고리즘__
 - [ ] 알고리즘 3문제 풀기
-  * [19238 스타트택시](https://www.acmicpc.net/problem/19238) / [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/BFS%2BDFS/BackJoon/19238.py)
 
-  * [14600 샤워실 바닥 깔기](https://www.acmicpc.net/problem/14600) / [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/%EA%B5%AC%ED%98%84/BackJoon/14600.py)
-    * `분할정복`
-    * 트로미노 타일링이라는 유명한 분할 정복 문제
-    ![image](https://user-images.githubusercontent.com/49435163/149934848-898715b4-909e-44ba-b813-ffe761bd67eb.png)
-  
-  * [1713 후보추천하기](https://www.acmicpc.net/problem/1713)/ [풀이]()
-    * `구현`
+* [14600 샤워실 바닥 깔기](https://www.acmicpc.net/problem/14600) / [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/%EA%B5%AC%ED%98%84/BackJoon/14600.py)
+  * `분할정복`
+  * 트로미노 타일링이라는 유명한 분할 정복 문제
+  ![image](https://user-images.githubusercontent.com/49435163/149934848-898715b4-909e-44ba-b813-ffe761bd67eb.png)
+
 
 __인공지능__
 - [ ] 데이콘 리더보드 제출
@@ -232,16 +229,19 @@ __취업 준비__
 </br>
 
 __알고리즘__
-- [ ] 알고리즘 1문제 풀기
-  * [1939 중량제한](https://www.acmicpc.net/problem/1939) / [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/Graph/BackJoon/1939.py)
+- [ ] 알고리즘 2문제 풀기
+* [19238 스타트택시](https://www.acmicpc.net/problem/19238) / [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/BFS%2BDFS/BackJoon/19238.py)
+  * 승객의 도착지 같을 수 있음
+  * 택시가 승객을 태웠을 때 해당 자리 0으로 표시
+  * 같은 거리 처리는 heapq로
+  * dfs 두번 돌리기
+  * 왜 틀렸는지 다시 알아보기
   
-  * [13459 구슬탈출](https://www.acmicpc.net/problem/13459)
-
+  __인공지능__
+- [ ] 데이콘 리더보드 제출
 
 __취업 준비__ 
-- [ ] 포트폴리오 정리
-- [ ] 자소서 제출 마감
-- [ ] 코딩테스트
+- [x] 코딩테스트
 
 </details>
 
@@ -249,9 +249,13 @@ __취업 준비__
 <summary>22.01.20 (목)</summary>
 </br>
 
+__알고리즘__
+- [ ] 알고리즘 2문제 풀기
+
 __취업 준비__ 
+- [ ] 포트폴리오 느낌점 다시 정리
 - [ ] 면접 스터디 준비
-- [ ] 자소서 제출 마감
+- [ ] 자소서 제출 마감 2개
 </details>
 
 
@@ -260,12 +264,13 @@ __취업 준비__
 </br>
 
 __알고리즘__
-- [ ] 알고리즘 3문제 풀기
+- [ ] 알고리즘 2문제 풀기
 
 __인공지능__
 - [ ] 데이콘 리더보드 제출
 
 __취업 준비__ 
+- [ ] 면접 스터디 준비
 - [ ] 면접 스터디
 
 </details>
@@ -278,8 +283,9 @@ __알고리즘__
 
 __인공지능__
 
-
 __취업 준비__ 
+- [ ] 면접 준비
+- [ ] PT 면접 자료 만들기
 
 </details>
 
@@ -292,6 +298,7 @@ __알고리즘__
 __인공지능__
 
 __취업 준비__ 
-
+- [ ] 면접 준비
+- [ ] PT 면접 자료 만들기
 
 </details>
