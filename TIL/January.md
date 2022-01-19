@@ -209,7 +209,7 @@ __알고리즘__
 - [ ] 알고리즘 3문제 풀기
   * [19238 스타트택시](https://www.acmicpc.net/problem/19238) / [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/BFS%2BDFS/BackJoon/19238.py)
 
-  * [14600 샤워실 바닥 깔기](https://www.acmicpc.net/problem/14600) / [풀이]()
+  * [14600 샤워실 바닥 깔기](https://www.acmicpc.net/problem/14600) / [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/%EA%B5%AC%ED%98%84/BackJoon/14600.py)
     * `분할정복`
     * 트로미노 타일링이라는 유명한 분할 정복 문제
     ![image](https://user-images.githubusercontent.com/49435163/149934848-898715b4-909e-44ba-b813-ffe761bd67eb.png)
@@ -234,6 +234,8 @@ __취업 준비__
 __알고리즘__
 - [ ] 알고리즘 1문제 풀기
   * [1939 중량제한](https://www.acmicpc.net/problem/1939) / [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/Graph/BackJoon/1939.py)
+  
+  * [13459 구슬탈출](https://www.acmicpc.net/problem/13459)
 
 
 __취업 준비__ 
