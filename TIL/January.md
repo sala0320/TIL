@@ -236,7 +236,7 @@ __알고리즘__
   * 같은 거리 처리는 heapq로
   * dfs 두번 돌리기
   * 왜 틀렸는지 다시 알아보기
-  
+  ![image](https://user-images.githubusercontent.com/49435163/150184102-94e193ab-7c03-4836-9c92-49da0051dd8c.png)
   __인공지능__
 - [ ] 데이콘 리더보드 제출
 
