@@ -255,7 +255,7 @@ __알고리즘__
 * [14501 퇴사](https://www.acmicpc.net/problem/14501) / [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/DP/BackJoon/14501.py)  
   * `DP`
   * 상담날짜가 퇴사 날짜를 넘어가면 안되므로 퇴사날짜부터 거꾸로 dp table 채우기
-<img src ="https://user-images.githubusercontent.com/49435163/150247587-95ec3530-1201-4a8a-b882-e78763a977f0.png" width="600" height="150"/>
+  <img src ="https://user-images.githubusercontent.com/49435163/150247587-95ec3530-1201-4a8a-b882-e78763a977f0.png" width="600" height="150"/>  
 * [13450 구슬탈출](https://www.acmicpc.net/problem/13459)
 
 
