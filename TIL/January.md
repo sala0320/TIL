@@ -188,9 +188,10 @@ __알고리즘__
 - [ ] 알고리즘 3문제 풀기
 * [12865 평범한 배낭](https://www.acmicpc.net/problem/12865) / [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/DP/BackJoon/12865.py)
   * `DP`
-  * 물건이 하나씩 추가되고 넣을 수 있는 최대 무게를 하나씩 늘려가면서, 물건 넣을지 말지에 따라서 최대 가치 
-  ![image](https://user-images.githubusercontent.com/49435163/149879026-6888ff3f-c6a8-4675-9542-02eae5d93ddf.png)
+  * 물건이 하나씩 추가되고 넣을 수 있는 최대 무게를 하나씩 늘려가면서, 물건 넣을지 말지에 따라서 최대 가치
   * 다른 사람들 풀이 보니까 DP를 dict로 많이 푸는 것 같다!!dict로 푸는게 훨 빠르다!!😲  
+  <img src="https://user-images.githubusercontent.com/49435163/149879026-6888ff3f-c6a8-4675-9542-02eae5d93ddf.png"  width="600" height="400"/>
+  
   
 __인공지능__
 - [x] 데이콘 실험 돌리기
@@ -211,7 +212,7 @@ __알고리즘__
 * [14600 샤워실 바닥 깔기](https://www.acmicpc.net/problem/14600) / [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/%EA%B5%AC%ED%98%84/BackJoon/14600.py)
   * `분할정복`
   * 트로미노 타일링이라는 유명한 분할 정복 문제
-  ![image](https://user-images.githubusercontent.com/49435163/149934848-898715b4-909e-44ba-b813-ffe761bd67eb.png)
+  <img src="https://user-images.githubusercontent.com/49435163/149934848-898715b4-909e-44ba-b813-ffe761bd67eb.png" width="600" height="400"/>
 
 
 __인공지능__
@@ -235,8 +236,8 @@ __알고리즘__
   * 택시가 승객을 태웠을 때 해당 자리 0으로 표시
   * 같은 거리 처리는 heapq로
   * dfs 두번 돌리기
-  * 왜 틀렸는지 다시 알아보기
-  ![image](https://user-images.githubusercontent.com/49435163/150184102-94e193ab-7c03-4836-9c92-49da0051dd8c.png)
+  * 왜 틀렸는지 다시 알아보기 문제 풀이 플로우 다시 파악하기
+ <img src ="https://user-images.githubusercontent.com/49435163/150184102-94e193ab-7c03-4836-9c92-49da0051dd8c.png" width="600" height="400"/>
   __인공지능__
 - [ ] 데이콘 리더보드 제출
 
@@ -251,6 +252,12 @@ __취업 준비__
 
 __알고리즘__
 - [ ] 알고리즘 2문제 풀기
+* [14501 퇴사](https://www.acmicpc.net/problem/14501) / [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/DP/BackJoon/14501.py)  
+  * `DP`
+  * 상담날짜가 퇴사 날짜를 넘어가면 안되므로 퇴사날짜부터 거꾸로 dp table 채우기
+<img src ="https://user-images.githubusercontent.com/49435163/150247587-95ec3530-1201-4a8a-b882-e78763a977f0.png" width="600" height="150"/>
+* [13450 구슬탈출](https://www.acmicpc.net/problem/13459)
+
 
 __취업 준비__ 
 - [ ] 포트폴리오 느낌점 다시 정리
