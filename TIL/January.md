@@ -237,9 +237,10 @@ __알고리즘__
   * 같은 거리 처리는 heapq로
   * dfs 두번 돌리기
   * 왜 틀렸는지 다시 알아보기 문제 풀이 플로우 다시 파악하기
- <img src ="https://user-images.githubusercontent.com/49435163/150184102-94e193ab-7c03-4836-9c92-49da0051dd8c.png" width="600" height="400"/>
+  <img src ="https://user-images.githubusercontent.com/49435163/150184102-94e193ab-7c03-4836-9c92-49da0051dd8c.png" width="600" height="400"/>
+
   __인공지능__
-- [ ] 데이콘 리더보드 제출
+- [x] 데이콘 리더보드 제출
 
 __취업 준비__ 
 - [x] 코딩테스트
@@ -256,13 +257,12 @@ __알고리즘__
   * `DP`
   * 상담날짜가 퇴사 날짜를 넘어가면 안되므로 퇴사날짜부터 거꾸로 dp table 채우기
   <img src ="https://user-images.githubusercontent.com/49435163/150247587-95ec3530-1201-4a8a-b882-e78763a977f0.png" width="600" height="150"/>  
-* [13450 구슬탈출](https://www.acmicpc.net/problem/13459)
 
 
 __취업 준비__ 
 - [ ] 포트폴리오 느낌점 다시 정리
 - [ ] 면접 스터디 준비
-- [ ] 자소서 제출 마감 2개
+- [ ] 자소서 제출 마감
 </details>
 
 
@@ -286,10 +286,6 @@ __취업 준비__
 <summary>22.01.21 (토)</summary>
 </br>
 
-__알고리즘__
-
-__인공지능__
-
 __취업 준비__ 
 - [ ] 면접 준비
 - [ ] PT 면접 자료 만들기
@@ -299,10 +295,6 @@ __취업 준비__
 <details markdown="1">
 <summary>22.01.21 (일)</summary>
 </br>
-
-__알고리즘__
-
-__인공지능__
 
 __취업 준비__ 
 - [ ] 면접 준비
