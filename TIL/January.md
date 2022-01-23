@@ -276,7 +276,7 @@ __알고리즘__
 </details>
 
 <details markdown="1">
-<summary>22.01.21 (토)</summary>
+<summary>22.01.22 (토)</summary>
 </br>
 
 __취업 준비__ 
@@ -286,11 +286,29 @@ __취업 준비__
 </details>
 
 <details markdown="1">
-<summary>22.01.21 (일)</summary>
+<summary>22.01.23 (일)</summary>
+</br>
+
+__취업 준비__ 
+- [x] 면접 준비
+- [x] PT 면접 자료 만들기
+
+</details>
+
+<details markdown="1">
+<summary>Retrospect</summary>
+</br> 
+
+__🥕당근🥕__  
+
+__🗡채찍🗡__
+
+</details>
+<details markdown="1">
+<summary>22.01.24 (월)</summary>
 </br>
 
 __취업 준비__ 
 - [ ] 면접 준비
-- [ ] PT 면접 자료 만들기
 
 </details>
