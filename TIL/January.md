@@ -299,16 +299,49 @@ __취업 준비__
 <summary>Retrospect</summary>
 </br> 
 
-__🥕당근🥕__  
-
+__🥕당근🥕__
+- 꾸준히 알고리즘 문제를 푸랴고 노력했다.  
+- 면접 준비를 많이 하였다.  
+  
 __🗡채찍🗡__
+- 몸이 아파서 이틀간 제대로 공부를 못해서 아쉽다.
 
 </details>
+
+### 5th week
+
 <details markdown="1">
 <summary>22.01.24 (월)</summary>
 </br>
 
+__알고리즘__
+- [x] 알고리즘 1문제 풀기
+
 __취업 준비__ 
-- [ ] 면접 준비
+- [x] 면접 준비 
+
+</details>
+
+<details markdown="1">
+<summary>22.01.25 (화)</summary>
+</br>
+
+__알고리즘__
+- [x] 알고리즘 1문제 풀기
+
+__취업 준비__ 
+- [x] 면접 준비 
+- [x] 면접
+</details>
+
+<details markdown="1">
+<summary>22.01.26 (수)</summary>
+</br>
+
+__알고리즘__
+- [ ] 알고리즘 1문제 풀기
+
+__취업 준비__ 
+- [ ] 면접 준비 
 
 </details>
