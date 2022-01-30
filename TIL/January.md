@@ -181,7 +181,7 @@ __🗡채찍🗡__
 ### 4th week
 
 <details markdown="1">
-<summary>22.01.17 (월)</summary>
+<summary>22.01.17 (월) 😀</summary>
 </br>
 
 __알고리즘__
@@ -203,7 +203,7 @@ __취업 준비__
 </details>
 
 <details markdown="1">
-<summary>22.01.18 (화)</summary>
+<summary>22.01.18 (화) 😡</summary>
 </br>
 
 __알고리즘__
@@ -214,19 +214,12 @@ __알고리즘__
   * 트로미노 타일링이라는 유명한 분할 정복 문제
   <img src="https://user-images.githubusercontent.com/49435163/149934848-898715b4-909e-44ba-b813-ffe761bd67eb.png" width="600" height="400"/>
 
-
-__인공지능__
-- [ ] 데이콘 리더보드 제출
-  * NFnet, ViT, Coatnet 공부 및 실험
-
-__취업 준비__ 
-- [ ] 포트폴리오 정리
   
 </details>
 
 
 <details markdown="1">
-<summary>22.01.19 (수)</summary>
+<summary>22.01.19 (수) 😀</summary>
 </br>
 
 __알고리즘__
@@ -248,7 +241,7 @@ __취업 준비__
 </details>
 
 <details markdown="1">
-<summary>22.01.20 (목)</summary>
+<summary>22.01.20 (목) 😀</summary>
 </br>
 
 __알고리즘__
@@ -266,7 +259,7 @@ __취업 준비__
 
 
 <details markdown="1">
-<summary>22.01.21 (금)</summary>
+<summary>22.01.21 (금) 😡</summary>
 </br>
 
 __알고리즘__
@@ -276,7 +269,7 @@ __알고리즘__
 </details>
 
 <details markdown="1">
-<summary>22.01.22 (토)</summary>
+<summary>22.01.22 (토) 😀</summary>
 </br>
 
 __취업 준비__ 
@@ -286,7 +279,7 @@ __취업 준비__
 </details>
 
 <details markdown="1">
-<summary>22.01.23 (일)</summary>
+<summary>22.01.23 (일) 😀</summary>
 </br>
 
 __취업 준비__ 
@@ -311,7 +304,7 @@ __🗡채찍🗡__
 ### 5th week
 
 <details markdown="1">
-<summary>22.01.24 (월)</summary>
+<summary>22.01.24 (월) 😀</summary>
 </br>
 
 __알고리즘__
@@ -323,7 +316,7 @@ __취업 준비__
 </details>
 
 <details markdown="1">
-<summary>22.01.25 (화)</summary>
+<summary>22.01.25 (화) 😀</summary>
 </br>
 
 __알고리즘__
@@ -335,7 +328,7 @@ __취업 준비__
 </details>
 
 <details markdown="1">
-<summary>22.01.26 (수)</summary>
+<summary>22.01.26 (수) 😀</summary>
 </br>
 
 __알고리즘__
@@ -347,7 +340,7 @@ __취업 준비__
 </details>
 
 <details markdown="1">
-<summary>22.01.27 (목)</summary>
+<summary>22.01.27 (목) 😀</summary>
 </br>
 
 __알고리즘__
@@ -360,7 +353,7 @@ __취업 준비__
 </details>
 
 <details markdown="1">
-<summary>22.01.28 (금)</summary>
+<summary>22.01.28 (금) 😀</summary>
 </br>
 
 __알고리즘__
@@ -372,13 +365,36 @@ __취업 준비__
 </details>
 
 <details markdown="1">
-<summary>22.01.29 (토)</summary>
+<summary>22.01.29 (토) 😡</summary>
+</br>
+
+__알고리즘__
+- [x] 알고리즘 1문제 풀기
+
+__취업 준비__ 
+- [x] 코딩 테스트
+
+</details>
+
+<details markdown="1">
+<summary>22.01.30 (일) 😡</summary>
 </br>
 
 __알고리즘__
 - [ ] 알고리즘 1문제 풀기
 
-__취업 준비__ 
-- [ ] 코딩 테스트
+</details>
+<details markdown="1">
+<summary>Retrospect</summary>
+</br> 
+
+__🥕당근🥕__
+- 보잘 것 없는 나를 좋게 봐주신 곳들이 있어서 기분좋았던 일주일이였다.
+- 면접 준비를 많이 하였다.
+  
+__🗡채찍🗡__
+- 알고리즘 문제를 더 많이 풀자.
+- 아직 부족한 부분이 많으니, 면접 스터디 준비 열심히 하자.
+- C/C++도 슬슬 손에 익히자.
 
 </details>
