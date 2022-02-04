@@ -2,7 +2,7 @@
 
 ### Today I Learned
   * [January](./TIL/January.md)
-  * [Feburary](./TIL/Fabuary.md)
+  * [February](./TIL/February.md)
   
 ### Algorithm
   * [Graph](./Algorithm/Graph/README.md) 
