@@ -39,9 +39,11 @@ __취업 준비__
 </br>
 
 __알고리즘__
-- [ ] 알고리즘 문제 1개 풀기
-__취업 준비__ 
-- [ ] 면접 스터디 준비
+- [x] 알고리즘 문제 2개 풀기
+  - [11650 좌표정렬하기](https://www.acmicpc.net/problem/11650) / [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/Sort/BackJoon/11650.py)
+  - [15483 최소거리](https://www.acmicpc.net/problem/15483) / [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/DP/BackJoon/15483.py)
+  - [7620 편집거리](https://www.acmicpc.net/problem/7620)/[풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/DP/BackJoon/7620.py) -> 메모리 초과
+
 
 </details>
 
@@ -51,8 +53,13 @@ __취업 준비__
 
 __알고리즘__
 - [ ] 알고리즘 문제 1개 풀기
+  - [2206 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) / [풀이]()
+
 __취업 준비__ 
+- [ ] C 언어 복습
+- [ ] 자동차 SW 공합 예습
 - [ ] 면접 스터디 공부
+
 </details>
 
 <details markdown="1">

@@ -1,4 +1,6 @@
 # 다이나믹 프로그래밍(DP)
+[Top 20 Dynamic Programming Interview](https://www.geeksforgeeks.org/top-20-dynamic-programming-interview-questions/)
+
 ## 문제 유형
 
 1. 최적 부분 구조 : 큰 문제를 작은 문제로 나눌 수 있음
@@ -106,4 +108,8 @@ print(dp[N])
 ## 배낭 문제
 ![image](https://user-images.githubusercontent.com/49435163/149879026-6888ff3f-c6a8-4675-9542-02eae5d93ddf.png)
 
-## LCS
+## Minimum Edit Distance (최소 편집 거리) 
+![image](https://user-images.githubusercontent.com/49435163/152649203-702a3ab5-8177-45bb-b158-9e901858965d.png)
+
+
+## LCS (최장 공통 부분수열)
