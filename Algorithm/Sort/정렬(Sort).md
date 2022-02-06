@@ -58,7 +58,6 @@ array.sort(key = lambda x: (x[0] , -x[2])) #오름차순, 내림차순
 퀵 정렬(quick sort)에서는 기준이 되는 수(pivot)를 수열 안에서 임의로 하나를 선택합니다. 그리고 피봇 이외의 수를 '피봇보다 작은 수'와 '피봇 이상인 수'의 두 그룹으로 나누고 이것을 다음과 같이 배치합니다. '피봇보다 작은 수' < 피봇 < '피봇 이상인 수' 그리고 양쪽 그룹을 또 다시 퀵 정렬을 사용해 나누고 이것을 계속 반복하면 자연스럽게 정렬이 이루어집니다.
 
 [퀵 정렬](https://serendipity24.tistory.com/27)
-
 ![Untitled](https://user-images.githubusercontent.com/49435163/122942274-0fa3d780-d3b1-11eb-856f-141a5ff2d4cb.png)
 
 ### 6. 힙 정렬
@@ -69,9 +68,6 @@ array.sort(key = lambda x: (x[0] , -x[2])) #오름차순, 내림차순
 ![Untitled](https://user-images.githubusercontent.com/49435163/122942622-50035580-d3b1-11eb-8ae5-32e5ca9c906f.png)
 
 ### 7. 기수 정렬(Radix Sort)
-
 ![Untitled](https://user-images.githubusercontent.com/49435163/122942676-585b9080-d3b1-11eb-8256-e5ee04869670.png)
-
 ### 8. 카운팅 정렬
-
 ![Untitled](https://user-images.githubusercontent.com/49435163/122942719-5f829e80-d3b1-11eb-9d6f-e7a64e5233b0.png)
