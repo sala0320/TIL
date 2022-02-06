@@ -54,7 +54,8 @@ __알고리즘__
 __알고리즘__
 - [x] 알고리즘 문제 1개 풀기
   - [2206 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) / [풀이](https://github.com/sala0320/Daily_Algorithm/blob/main/BFS%2BDFS/BackJoon/2206.py)
-    - visited 3차원으로 설정
+    - visited 3차원으로 설정해서 벽 뚫었을 때와 안뚫었을 때 visited 다르게 설정하기  
+      [x좌표, y좌표, 벽뚫은 상태인지 아닌지]
 
 __취업 준비__ 
 - [x] C 언어 복습
