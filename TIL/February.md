@@ -1,8 +1,8 @@
 
 ## February
-  1. 교육듣기
-  2. 코딩 테스트 준비
-  3. 면접 준비
+  1. 교육 듣기
+  2. 알고리즘 풀기
+  3. 면접 스터디
 
 
 ### 1st week
@@ -84,7 +84,33 @@ __알고리즘__
 - [ ] 알고리즘 문제 1개 풀기 
   
 __취업 준비__  
-- [ ] 자동차 SW공학 강의 듣기
-- [ ] 강의 내용 정리 및 복습
+- [x] 자동차 SW 공학 강의 듣기
+- [x] 강의 내용 정리 및 복습
     
+< 중요 용어 정리 >
+- A-SPICE, ISO26262
+- 온보드 통신 / 오프보드 통신
+- Logical system architecture / Technical system architecture
+- Validation / Verification
+- Closed-loop control task / Open-loop control task
+- 기능 모델 / 환경 모델
+- Time-and Value-Discrete Sysytems and Signals
+- 활성화 시점 / 마감시점 / 응답시간/ 상대 마감시간
+- Ready / Suspended
+- Network Topology / CAN 네트워크
+- reliability / Avaliability / Safety(Risk, Hazard)
+- Hierachy, Modularization
+</details>
+
+<details markdown="1">
+<summary>22.02.07(화)</summary>
+</br>
+
+__알고리즘__
+- [ ] 알고리즘 문제 1개 풀기 
+  
+__취업 준비__  
+- [ ] 자동차 SW 공학 강의 듣기
+- [ ] 강의 내용 정리 및 복습
+
 </details>
