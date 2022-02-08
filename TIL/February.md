@@ -110,7 +110,36 @@ __알고리즘__
 - [ ] 알고리즘 문제 1개 풀기 
   
 __취업 준비__  
-- [ ] 자동차 SW 공학 강의 듣기
+- [x] 자동차 SW 공학 강의 듣기
+- [x] 강의 내용 정리 및 복습
+< 중요 용어 정리 >
+- Core Process
+- ASIL
+- SYS / SWE
+- Configuration Management
+- Baseline
+- 품질 / 비용 / 마감시간
+- 프로젝트 단계 / 마일스톤 / 간트 차트 / WBS
+- Traceability
+- 기능 / 비기능 요구사항 
+- UML
+- 응집도/결합도
+- 런타임 최적화 / 자원 최적화
+- V&V 기법
+- White Box Test / Black Box Test / Experience based Test / Model based Test
+- Integration
+- Calibration 
+</details>
+
+<details markdown="1">
+<summary>22.02.08(수)</summary>
+</br>
+
+__알고리즘__
+- [ ] 알고리즘 문제 1개 풀기 
+  
+__취업 준비__  
+- [ ] 자동차 통신 시스템 강의 듣기
 - [ ] 강의 내용 정리 및 복습
 
 </details>
