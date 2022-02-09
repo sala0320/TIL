@@ -139,7 +139,43 @@ __알고리즘__
 - [ ] 알고리즘 문제 1개 풀기 
   
 __취업 준비__  
-- [ ] 자동차 통신 시스템 강의 듣기
-- [ ] 강의 내용 정리 및 복습
+- [x] 자동차 통신 시스템 강의 듣기
+- [x] 강의 내용 정리 및 복습
+<중요 용어 정리>
+- 전장 도메인(바디, 샤시, 파워트레인, 인포메이션)
+- Power : B+, ACC, IGN
+- Actuator(Motor, Lamp) / Sensor(Sendor, Switch)
+- 제어기 하나로 통합
+- 차선 유지 시스템 : LDW, LKAS
+- Fusion Layer, Application Layer
+- 사고 데이터 저장 장티 : ADR, EDR
+- 네트워크 프로토콜
+- header, payload
+- OSI 7계층 모델
+  - Physical(물리) 
+    : 비트스트림 변환
+  - Link(링크)
+    : 오류제어, 흐름제어, 프레임(헤더, 트레일러, 데이터)
+  - Network(네트워크)
+    : 라우팅, 스위칭, ARP, 패킷, IP
+  - Tansport(전송)
+    : 종단간통신, 세그먼트, TCP/UDP
+  - Session(세션)
+  - Presentation(표현)
+  - Application(응용) - ECU
+- 유니캐스트, 멀티캐스트, 브로드캐스트
+- CAN 통신, ID값
+- Ethernet, AVB, TSN
+- DoIP, NM
+</details>
 
+<details markdown="1">
+<summary>22.02.09(목)</summary>
+
+</br>
+
+__취업 준비__  
+- [ ] ISO26262 강의 듣기
+- [ ] 강의 내용 정리 및 복습
+- [ ] 퀴즈 준비(키워드 A4용지에 정리 및 암기)
 </details>
