@@ -103,7 +103,7 @@ __취업 준비__
 </details>
 
 <details markdown="1">
-<summary>22.02.07(화)</summary>
+<summary>22.02.08(화)</summary>
 </br>
 
 __알고리즘__
@@ -133,7 +133,7 @@ __취업 준비__
 </details>
 
 <details markdown="1">
-<summary>22.02.08(수)</summary>
+<summary>22.02.09(수)</summary>
 </br>
 
 __알고리즘__
@@ -172,7 +172,7 @@ __취업 준비__
 </details>
 
 <details markdown="1">
-<summary>22.02.09(목)</summary>
+<summary>22.02.10(목)</summary>
 
 </br>
 
@@ -184,7 +184,7 @@ __취업 준비__
 
 
 <details markdown="1">
-<summary>22.02.10(금)</summary>
+<summary>22.02.11(금)</summary>
 
 </br>
 
@@ -197,7 +197,7 @@ __취업 준비__
 </details>
 
 <details markdown="1">
-<summary>22.02.11(토)</summary>
+<summary>22.02.12(토)</summary>
 
 </br>
 
@@ -210,7 +210,7 @@ __취업 준비__
 </details>
 
 <details markdown="1">
-<summary>22.02.12(일)</summary>
+<summary>22.02.13(일)</summary>
 
 </br>
 
@@ -236,7 +236,7 @@ __🗡채찍🗡__
 
 ### 3rd week
 <details markdown="1">
-<summary>22.02.13(월)</summary>
+<summary>22.02.14(월)</summary>
 
 </br>
 
@@ -249,13 +249,34 @@ __취업 준비__
 </details>
 
 <details markdown="1">
-<summary>22.02.14(화)</summary>
+<summary>22.02.15(화)</summary>
 
 </br>
 
 __취업 준비__  
 - [x] 리눅스 강의 정리
 - [ ] Pose 프로젝트 정리
+
+
+</details>
+
+<details markdown="1">
+<summary>22.02.16(수)</summary>
+
+</br>
+
+__취업 준비__  
+- [x] C 강의 정리
+- [x] C 강의 과제
+</details>
+
+<details markdown="1">
+<summary>22.02.17(목)</summary>
+
+</br>
+
+__취업 준비__  
+- [ ] C 강의 정리
 
 
 </details>
