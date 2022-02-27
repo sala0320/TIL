@@ -362,11 +362,51 @@ __취업 준비__
 </details>
 
 <details markdown="1">
-<summary>22.02.23(수)</summary>
+<summary>22.02.24(목)</summary>
 
 </br>
 
 __취업준비__
-- [ ] C++ 프로그래밍 강의 정리
-- [ ] 프로젝트 코드 
+- [x] C++ 프로그래밍 강의 정리
+</details>
+
+<details markdown="1">
+<summary>22.02.25(금)</summary>
+
+</br>
+
+__취업준비__
+- [x] C++ 프로그래밍 강의 정리
+</details>
+
+<details markdown="1">
+<summary>22.02.26(토)</summary>
+
+</br>
+
+__취업준비__
+- [x] 프로젝트 회의
+</details>
+
+<details markdown="1">
+<summary>22.02.27(일)</summary>
+
+</br>
+
+__취업준비__
+- [x] 프로젝트 회의
+- [x] 퀴즈  
+</details>
+
+
+<details markdown="1">
+<summary>Retrospect</summary>
+</br> 
+
+__🥕당근🥕__  
+- 팀원분들을 만나 최종 프로젝트를 주제를 정하고 설계까지 마쳤다. 좋은 분들과 팀이 되어 프로젝트 설계가 순조롭게 진행되어 좋았다. 2월 한달이 순식간에 지나가게 되었는데 C와 C++에 대해 많이 배우게 되어서 뿌듯하다. 
+  
+__🗡채찍🗡__
+- 개복치 녀석 이번주도 금요일부터 주구장창 몸이 너무 안좋았다. 앞으로 한주간 프로젝트를 빡세게 해야 하니 몸관리 좀 잘하자.
+
 </details>
