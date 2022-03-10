@@ -7,6 +7,9 @@
  
 ### Artificial Intelligence  
 
+### Book
+  * [Book](./Book/README.md)
+
 ### Algorithm
   * [Sort](./Algorithm/Sort/README.md)
   * [Graph](./Algorithm/Graph/README.md) 
