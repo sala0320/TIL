@@ -48,3 +48,20 @@ __개인 공부__
 
 </details>
 
+<details markdown="1">
+<summary>22.02.08(목)</summary>
+</br>
+
+__업무__   
+- [x] Upsquare 미팅
+- [x] Data Week 미팅  
+- [x] Model Week 미팅
+- [ ] synthtiger 논문 리딩
+- [ ] datagen 코드 파악 후 데이터 생성  
+
+__개인 공부__  
+- [x] 책읽기  
+  - [일의 격](./../Book/일의%20격.md)    
+
+</details>
+
