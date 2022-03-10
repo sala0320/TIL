@@ -10,7 +10,7 @@
 ### 2nd week
 
 <details markdown="1">
-<summary>22.02.07(월)</summary>
+<summary>22.03.07(월)</summary>
 </br>
 
 __업무__   
@@ -32,7 +32,7 @@ __개인 공부__
 </details>
 
 <details markdown="1">
-<summary>22.02.08(화)</summary>
+<summary>22.03.08(화)</summary>
 </br>
 
 __업무__   
@@ -49,15 +49,16 @@ __개인 공부__
 </details>
 
 <details markdown="1">
-<summary>22.02.08(목)</summary>
+<summary>22.03.10(목)</summary>
 </br>
 
 __업무__   
 - [x] Upsquare 미팅
 - [x] Data Week 미팅  
 - [x] Model Week 미팅
-- [ ] synthtiger 논문 리딩
-- [ ] datagen 코드 파악 후 데이터 생성  
+- [x] Detection, Recognition 정리
+- [x] synthtiger 논문 리딩
+- [x] datagen 코드 파악 후 데이터 생성  
 
 __개인 공부__  
 - [x] 책읽기  
@@ -65,3 +66,18 @@ __개인 공부__
 
 </details>
 
+<details markdown="1">
+<summary>22.03.11(금)</summary>
+</br>
+
+__업무__   
+- [ ] Upstudy 미팅
+- [ ] 데이터 합성팀 미팅  
+- [ ] synthtiger 논문 리딩
+- [ ] datagen 코드 파악 후 config 조정
+
+__개인 공부__  
+- [ ] 책읽기  
+  - [일의 격](./../Book/일의%20격.md)    
+- [] 면접 준비
+</details>
