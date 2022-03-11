@@ -71,13 +71,13 @@ __개인 공부__
 </br>
 
 __업무__   
-- [ ] Upstudy 미팅
-- [ ] 데이터 합성팀 미팅  
-- [ ] synthtiger 논문 리딩
-- [ ] datagen 코드 파악 후 config 조정
+- [x] Upstudy 미팅
+- [x] 데이터 합성팀 미팅  
+- [x] synthtiger 논문 리딩
+- [ ] datagen 코드 파악
 
 __개인 공부__  
-- [ ] 책읽기  
+- [x] 책읽기  
   - [일의 격](./../Book/일의%20격.md)    
 - [ ] 면접 준비
 </details>
