@@ -1,7 +1,7 @@
 
 ## March
-  1. 업무 적응하기
-  2. 인공지능 공부하기
+  1. 데이터 합성 엔진 수정, 좋은 데이터 셋 생성
+  2. 논문 읽기
   3. 알고리즘 풀기
   4. CS 공부하기
   5. 운동하기
@@ -74,7 +74,7 @@ __업무__
 - [x] Upstudy 미팅
 - [x] 데이터 합성팀 미팅  
 - [x] synthtiger 논문 리딩
-  - [synthTIGER](./../AI.synthTIGER.md)
+  - [synthTIGER](./../AI/ynthTIGER.md)
 - [ ] datagen 코드 파악
 
 __개인 공부__  
