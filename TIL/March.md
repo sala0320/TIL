@@ -108,10 +108,23 @@ __개인 공부__
 </br>
 
 __업무__   
-- [ ] 합성 데이터 EDA
-- [ ] SynthTIGER논문 읽기
+- [x] 합성 데이터 EDA
+- [x] SynthTIGER논문 읽기
 
 __개인 공부__  
-- [ ] 책읽기  
-- [ ] 면접 준비
+- [x] 책읽기  
+- [x] 면접 준비
+</details>
+
+<details markdown="1">
+<summary>22.03.15(화)</summary>
+</br>
+
+__업무__   
+- [x] 합성 데이터 EDA
+- [x] Recognizer Train
+
+__개인 공부__  
+- [x] 책읽기  
+- [x] 영어면접 준비
 </details>
