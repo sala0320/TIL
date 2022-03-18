@@ -99,7 +99,7 @@ __개인 공부__
 
 __개인 공부__  
 - [x] 면접 준비
-</details>
+
 
 ### 3rd week
 
@@ -122,9 +122,47 @@ __개인 공부__
 
 __업무__   
 - [x] 합성 데이터 EDA
-- [x] Recognizer Train
 
 __개인 공부__  
 - [x] 책읽기  
 - [x] 영어면접 준비
+</details>
+
+<details markdown="1">
+<summary>22.03.16(수)</summary>
+</br>
+
+__업무__   
+- [x] Recognizer Train 돌려보기
+
+</details>
+<details markdown="1">
+<summary>22.03.17(목)</summary>
+</br>
+
+__업무__   
+- [x] Synth Team 미팅/준비
+
+__개인 공부__  
+
+</details>
+<details markdown="1">
+<summary>22.03.15(금)</summary>
+</br>
+
+__업무__   
+- [x] Recognizer 코드 분석하기
+
+__개인 공부__  
+- [x] 책읽기  
+</details>
+
+<details markdown="1">
+<summary>Retrospect</summary>
+</br> 
+
+__🥕당근🥕__  
+  
+__🗡채찍🗡__
+
 </details>
