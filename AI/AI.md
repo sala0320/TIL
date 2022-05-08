@@ -1,2 +1,0 @@
-# AI
-* [SynthTIGER](./SynthTIGER.md)
