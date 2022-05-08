@@ -1,22 +1,10 @@
-# Daily Report☺️
+# Report☺️
 
-### Today I Learned
-  * [January](./TIL/January.md)
-  * [February](./TIL/February.md)
-  * [March](./TIL/March.md)
- 
-### Artificial Intelligence  
-  * [AI](./AI/AI.md)
-  
 ### Book
   * [Book](./Book/README.md)
 
 ### Algorithm
-  * [Sort](./Algorithm/Sort/README.md)
-  * [Graph](./Algorithm/Graph/README.md) 
-  * [Dynamic Programming](./Algorithm/Dynamic%20Programming,%20Divide%20and%20Conquer/README.md)
+  * [Algorithm](./Algorithm/)
 
 ### Programming Language
- * [Python](./Programming%20Language/Python.md) 
- * [C](./Programming%20Language/C.md)
- * [C++](./Programming%20Language/C++.md)
+ * [Programming Language](./Programming%20Language/)
